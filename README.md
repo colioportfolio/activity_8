@@ -1,6 +1,10 @@
 # CS-491-class-activity-6
 Test Driven Development
 
+```
+pip install -U -r requirements.txt
+```
+
 ### Problem 1
 Set up your environment
 https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
