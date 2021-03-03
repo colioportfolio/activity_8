@@ -17,9 +17,26 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1614730516769	Marionette	INFO	Listening on port 60452
 1614730516926	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Cole\\AppData\\Local\\Temp\\rust_mozprofileDYTcdA"
+1614731621124	Marionette	INFO	Stopped listening on port 60452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+emp\\rust_mozprofileDYTcdA"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1614730564370	Marionette	INFO	Listening on port 60512
 1614730564542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614731622979	Marionette	INFO	Stopped listening on port 60512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+emp\\rust_mozprofileb4V4DB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614730813220	Marionette	INFO	Listening on port 60620
+1614730813805	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614731624591	Marionette	INFO	Stopped listening on port 60620
