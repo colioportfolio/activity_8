@@ -5,6 +5,10 @@ Test Driven Development
 pip install -U -r requirements.txt
 ```
 
+```
+python manage.py runserver
+```
+
 ### Problem 1
 Set up your environment
 https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
