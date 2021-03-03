@@ -1,5 +1,4 @@
 """oursite URL Configuration
-
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.1/topics/http/urls/
 Examples:
@@ -14,8 +13,10 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.conf.urls import url
+from django.contrib import admin
+from django.urls import path
 from lists import views
 
 urlpatterns = [
-    url(r'^$', views.home_page, name='home'),
+    url(r'^$', views.home_page, name='home')
 ]
